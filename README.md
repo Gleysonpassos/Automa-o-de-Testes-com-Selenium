@@ -1,2 +1,6 @@
-# Automa-o-de-Testes-com-Selenium
-Simulação de testes automatizados para uma aplicação de login. • Uso de Selenium WebDriver com Python + geração de relatórios automatizados. • Aplicação prática de testes de fluxo, casos de falha e validação de campos.
+# Testes Automatizados com Selenium
+
+Este projeto realiza testes automatizados em um formulário de login, usando:
+- Selenium WebDriver com Python
+- Pytest para organização dos testes
+- Geração de relatórios em HTML com `pytest-html`
